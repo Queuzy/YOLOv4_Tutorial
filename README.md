@@ -13,8 +13,8 @@ YOLO v4 tiny Tutorial with Kaggle Oral Cancer (Lips and Tongue) images Dataset
 
 * LabelImg installation: 
 1. Open terminal and activate python environment
-2. type > `pip install labelImg` to install labelImg
-3. type > `labelImg` to open labelImg
+2. type `> pip install labelImg` to install labelImg
+3. type `> labelImg` to open labelImg
 
 * Source dataset link on Kaggle:
  https://www.kaggle.com/code/shivam17299/oral-cancer-lips-and-tongue-images-dataset
