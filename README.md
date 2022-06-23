@@ -7,7 +7,7 @@ YOLO v4 tiny Tutorial with Kaggle Oral Cancer (Lips and Tongue) images Dataset
 1. Open [setup.ipynb](setup.ipynb)
 2. Click `Open in Colab` button on the top
 3. Run code and link your own Google drive
-4. Check "`YOLOv4_Tutorial`" folder at drive home page
+4. Check "`yolov4`" folder at drive home page
 
 ## 2. Dataset annotation
 
